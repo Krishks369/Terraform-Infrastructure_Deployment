@@ -11,8 +11,8 @@ required_providers {
 
 }
     provider "aws" {
- access_key = "AKIAWHCOKOQJ2MAR47AN"
-  secret_key = "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"
+ access_key = ""
+  secret_key = ""
   region                   = "us-east-1"
 
    }
